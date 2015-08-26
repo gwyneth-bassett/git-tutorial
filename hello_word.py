@@ -1,3 +1,3 @@
-python hello_world.py
+#! /usr/bin/env python
 print 'Hello, world!'
-
+print 'hello, Gwyneth'
